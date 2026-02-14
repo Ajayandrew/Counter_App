@@ -7,7 +7,7 @@ This project demonstrates **state management**, **button click events**, and **c
 
 ## 🚀 Live Demo
 
-🔗 Live Site: 
+🔗 Live Site: https://counter-app-six-fawn.vercel.app/
 
 ## 📂 GitHub Repository
 
