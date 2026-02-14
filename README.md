@@ -11,7 +11,7 @@ This project demonstrates **state management**, **button click events**, and **c
 
 ## 📂 GitHub Repository
 
-🔗 Repository: 
+🔗 Repository: https://github.com/Ajayandrew/Counter_App.git
 
 ---
 
