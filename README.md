@@ -1,4 +1,4 @@
-# Counter Application (React useState Project)
+# Counter Application 
 
 A simple and modern **Counter Application** built using **React.js** to understand and implement the `useState` hook.  
 This project demonstrates **state management**, **button click events**, and **conditional rendering** with an attractive responsive UI.
